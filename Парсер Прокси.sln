@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Парсер Прокси1", "Парсер Прокси\Парсер Прокси1.csproj", "{FF7CDA67-B0A8-4CDE-A864-9F55DA33267A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7CDA67-B0A8-4CDE-A864-9F55DA33267A}.Debug|x86.ActiveCfg = Debug|x86
+		{FF7CDA67-B0A8-4CDE-A864-9F55DA33267A}.Debug|x86.Build.0 = Debug|x86
+		{FF7CDA67-B0A8-4CDE-A864-9F55DA33267A}.Release|x86.ActiveCfg = Release|x86
+		{FF7CDA67-B0A8-4CDE-A864-9F55DA33267A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
